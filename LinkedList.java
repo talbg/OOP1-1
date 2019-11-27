@@ -110,6 +110,7 @@ public class LinkedList {
 
 			list.insertionSort(list.head);
 			// Return the updated List 
+			list.size--;
 			return list; 
 		} 
 
