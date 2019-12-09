@@ -3,7 +3,6 @@ import java.util.Iterator;
 
 //this class written all by us
 public class ComplexFunction implements complex_function{
-	function head;
 	function left;
 	function right;
 	Operation op;
